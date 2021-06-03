@@ -9,7 +9,16 @@ Github Renan de Souza Oliveira
 
 Meu primeiro contato com programação foi quando iniciei a faculdade, antes disso não tinha ideia do que era.
 
-Após meu primeiro contato com programação tornei hobby e em todo esse tempo venho aprendendo e me desenvolvendo.
+Após meu primeiro contato com programação se tornou meu hobby e em todo esse tempo venho aprendendo e me desenvolvendo.
+
+## Alguns conhecimentos.
+```yml
+PHP - Minha maior paixão.
+Css 
+HTML
+Javascript
+VueJS - Me apaixonando aos poucos.
+```
 
 This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
 
