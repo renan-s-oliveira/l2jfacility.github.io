@@ -19,10 +19,7 @@ Javascript
 VueJS - Me apaixonando aos poucos.
 ```
 
-This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
 
-- [@primer/css](https://github.com/primer/css)
-- [github-pages](https://github.com/github/pages-gem) ([dependency versions](https://pages.github.com/versions/))
 
 ## Quick start
 
