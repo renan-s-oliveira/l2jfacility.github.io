@@ -1,7 +1,8 @@
 # Renan de Souza Oliveira
 
-![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
-![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
+![PHP]
+![Laravel]
+![VueJs]
 
 Github Renan de Souza Oliveira
 
@@ -14,6 +15,7 @@ Após meu primeiro contato com programação se tornou meu hobby e em todo esse 
 ## Alguns conhecimentos.
 ```yml
 PHP - Minha maior paixão.
+Laravel - Extensão da paixão pelo PHP
 Css 
 HTML
 Javascript
