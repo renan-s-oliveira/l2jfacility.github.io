@@ -1,8 +1,5 @@
 # Renan de Souza Oliveira
 
-![PHP](https://php.net)
-![Laravel](https://laravel.com)
-![VueJs](https://vuejs.org/)
 
 Github Renan de Souza Oliveira
 
