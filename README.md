@@ -5,7 +5,11 @@
 
 Github Renan de Souza Oliveira
 
-## What it does?
+## Um pouco sobre mim.
+
+Meu primeiro contato com programação foi quando iniciei a faculdade, antes disso não tinha ideia do que era.
+
+Após meu primeiro contato com programação tornei hobby e em todo esse tempo venho aprendendo e me desenvolvendo.
 
 This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
 
