@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Menu
+# Projetos
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
