@@ -18,7 +18,7 @@ No projeto da Gribel trabalhei no
 
 - Sistema de exportação XML de imovels para o [Grupo Zap](https://developers.grupozap.com/)
 
-- Plugin Wordpress para verificar se tem imoveis com informações inconsistência antes de exportar o XML. 
+- Plugin Wordpress para verificar se tem imoveis com inconsistência antes de exportar o XML. 
 
 ## Sistemas em Andamento
 
