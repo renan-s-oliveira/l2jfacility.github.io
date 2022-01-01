@@ -8,26 +8,37 @@
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     background-color: #666;
-    color: #fff !important; 
-}
+    color: #fff; }
   
-#poke-filter:focus {
+  #poke-filter:focus{
     outline: none;
-}
+  }
 
-.selected-pkm {
-  position: fixed;
-  top: 35px;
-  left: 0;
-}
-
-.poke-list {
+  .selected-pkm{
+    position: fixed;
+    top: 35px;
+    left: 0;
+  }
+  
+  .poke-list {
     float: right;
     margin-top: 50px;
     width: 70%;
     text-transform: capitalize;
-    opacity: 0.95; 
-}
+    opacity: 0.95; }
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
 
 .poke-list-item {
     display: flex;
@@ -41,10 +52,9 @@
     list-style: none;
     background-color: #333;
     color: white; }
-.poke-list-item:hover {
-    background-color: #555; 
-}
-.poke-list-item img{
+  .poke-list-item:hover {
+    background-color: #555; }
+  .poke-list-item img{
     margin-right: 10px;
     vertical-align: middle;
-}
+  }
